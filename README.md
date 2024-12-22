@@ -1,5 +1,7 @@
 Small lantern made of 3 parts: the top, the base and the transparent light diffuser. 
+
 Created in SolidWorks and designed to fit a single i-Zoom Rota8 light: https://www.fcsurplus.ca/shopping/products/473145-i-zoom-rota8-lights-6-pack/
+
 Files in .stl format and in .sldw format are included.
 
 Lantern Assembly video
