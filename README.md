@@ -7,7 +7,7 @@ Files in .stl format and in .sldw format are included.
 Lantern Assembly video
 https://github.com/user-attachments/assets/8f38b804-b3e9-401a-a22d-987160c989b7
 
-Some IRL images of the lantern: 
+Some IRL images of the lantern (with light and extra keyring): 
 
 ![lamp_inside](https://github.com/user-attachments/assets/3618a4cb-58e9-48e7-a3fc-f0ea04e14dbc)
 ![lamp_off(1)](https://github.com/user-attachments/assets/af0838b2-67bf-4235-83dc-d2dc8407a915)
